@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.16)  21 APR 2026 18:18
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.4.16)  24 APR 2026 15:48
  restricted system commands enabled.
 **report.tex
 (./report.tex
@@ -805,10 +805,9 @@ Package: luatexja-fontspec-29e 2025-11-01 fontspec support of LuaTeX-ja
 )) (c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-No file report.aux.
-
+) (./report.aux)
 \openout1 = report.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
@@ -829,6 +828,7 @@ LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count310
@@ -939,64 +939,58 @@ LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
 <sample.png.png, id=1, 221.82875pt x 221.82875pt>
 File: sample.png.png Graphic file (type png)
 <use sample.png.png>
-Package luatex.def Info: sample.png.png  used on input line 18.
+Package luatex.def Info: sample.png.png  used on input line 19.
 (luatex.def)             Requested size: 195.0pt x 195.00002pt.
 LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JT3/gt/m/n' tried instead on input line 20.
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 20.
+(Font)              scaled to size 13.85594pt on input line 21.
 LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <14.4> not available
-(Font)              Font shape `JY3/gt/m/n' tried instead on input line 20.
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 20.
+(Font)              scaled to size 13.85594pt on input line 21.
 (load cache: extra_lmroman8-regular.luc)(load cache: extra_lmroman6-regular.luc)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 25.
+(Font)              <12> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 26.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 25.
+(Font)              scaled to size 7.69775pt on input line 26.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 25.
-(save cache: C:/Users/somey/.texlive2026/texmf-var/luatexja/extra_lmmono12-regul
-ar.lua.gz)(save cache: C:/Users/somey/.texlive2026/texmf-var/luatexja/extra_lmmo
-no12-regular.luc) [1
+(Font)              scaled to size 5.77332pt on input line 26.
+(load cache: extra_lmmono12-regular.luc) [1
 
 {c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./sample.png.png>
 ]
-(./report.aux)
+[2] (./report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 )
 
 Here is how much of LuaTeX's memory you used:
- 6285 strings out of 475900
+ 6291 strings out of 475900
  125244,662416 words of node,token memory allocated
  802 words of node memory still in use:
    7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 129 attribute, 51 glue_spe
 c, 20 attribute_list, 1 write, 9 user_defined nodes
-   avail lists: 1:4,2:6033,3:91,4:118,5:25,6:22,7:738,8:4,9:264,10:3,11:10
- 28768 multiletter control sequences out of 65536+600000
+   avail lists: 1:4,2:8135,3:116,4:132,5:40,6:20,7:827,8:61,9:265,10:4,11:9
+ 28769 multiletter control sequences out of 65536+600000
  59 fonts using 49005735 bytes
- 104i,6n,99p,2039b,269s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,6n,99p,2039b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.otf><c:/te
 xlive/2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiGothic-Medium.otf
 ><c:/texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/tex
 live/2026/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/
 2026/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf><c:/
 texlive/2026/texmf-dist/fonts/opentype/public/lm/lmroman17-regular.otf>
-Output written on report.pdf (1 page, 121112 bytes).
+Output written on report.pdf (2 pages, 125376 bytes).
 
-PDF statistics: 52 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+PDF statistics: 55 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
